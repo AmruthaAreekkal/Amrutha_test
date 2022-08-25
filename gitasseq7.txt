@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+int a,b,sum,sub;
+float divi;
+printf("enter the numbers");
+scanf("%d%d",&a,&b);
+sum=a+b;
+sub=a-b;
+divi=a/b;
+printf("sum=%d\nsubtraction=%d\ndivision=%f",sum,sub,divi);
+return 0;
+
+}
