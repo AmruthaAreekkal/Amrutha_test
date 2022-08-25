@@ -1,0 +1,29 @@
+Git
+Git is a version control tool used to track the changes in the code.
+
+GitHub
+Github is a web based cloud service to manage the project datas or codes.
+
+Repository
+A directory or folder to store,update and review the project datas.
+
+push
+It is used to upload data
+
+pull
+It is used to fetch and download data
+
+commit
+If a file is committed it cannot be changed unless we request for it
+
+branch
+It is a version of our data.By creating branch, we can make changes to our data
+
+clone
+By using clone we can copy the file from github 
+
+review
+review means people can view and comment on our works
+
+merge
+It means merging the changes to the base file
